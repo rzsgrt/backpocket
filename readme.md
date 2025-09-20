@@ -11,5 +11,6 @@ Some files may be incomplete or rough drafts.
 | File | Description |
 |------|-------------|
 | [RAG_Rerank_HF.ipynb](./RAG_Rerank_HF.ipynb) | Notebook exploring RAG with all from HF stack |
+| [Sentence Embeddings](./Sentence_Embeddings.ipynb) | Notebook for introduction to sentence embeddings |
 
 ---
